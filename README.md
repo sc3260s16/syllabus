@@ -32,10 +32,12 @@ poll of student's availability.
 
 Because homework is an important part of the learning process, your performance on it will account for a 
 significant portion of your grade. Homework will be due before the beginning of class by pushing your code
-to your private Github repository. Due dates for each are shown on the course schedule page, 
-and are subject to change during the semester if we drift from the lecture schedule (but due dates will never be moved up).
-Late homework will be accepted but at reduced credit. If you turn in the homework by the next morning, it will be docked 10%. 
-Homework turned in less than a week late will be docked 20%. After that, homework will only count half.
+to your private Github repository (this process will be introduced later in the course). 
+
+Due dates for each are shown on the course schedule page, and are subject to change during the semester if 
+we drift from the lecture schedule (but due dates will never be moved up). Late homework will be accepted 
+but at reduced credit. If you turn in the homework by the next morning, it will be docked 10%. 
+Homework turned in less than a week late will be docked 20%. After that, homework will only count half. 
 
 ## Grading
 
@@ -58,7 +60,8 @@ I will never use a curve to lower your grade, only to raise it.
 ## Final Grade
 
 Your final grade will be determined as follows: class participation (10%), homework (50%), mid-term (20%), and a final project (20%). 
-Note that homework plays a significant role in your final grade!!! Please email me ahead of time if you need to miss a lecture.
+**Note that homework plays a significant role in your final grade!!!** Also note that missing class will affect your participation
+grade! 
 
 ## Disclosure
 
