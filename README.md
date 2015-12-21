@@ -59,7 +59,7 @@ I will never use a curve to lower your grade, only to raise it.
 
 ## Final Grade
 
-Your final grade will be determined as follows: class participation (10%), homework (50%), mid-term (20%), and a final project (20%). 
+Your final grade will be determined as follows: class participation (10%), homework/quiz (50%), mid-term (20%), and a final project (20%). 
 **Note that homework plays a significant role in your final grade!!!** Also note that missing class will affect your participation
 grade! 
 
